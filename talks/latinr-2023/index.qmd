@@ -2,7 +2,7 @@
 authors: [Patricia Loto, Irene Vazano, Jesica Formoso]
 date: "2024-04-20"
 title: A Shiny app for mapping open-science communities, organizations & events in Latin America (Lightning Talk)
-image: cfa.jpg
+image: latinr.jpg
 ---
 
 The presentation *"A Shiny App for Mapping Open-Science Communities, Organizations & Events in Latin America"* highlighted the challenges of limited resources and spaces in Spanish for open science in Latin America, as well as the difficulty of identifying active communities and networks practicing open science in the region.
