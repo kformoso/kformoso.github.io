@@ -7,6 +7,48 @@
     "text": "Introduction to Quarto\n\n\n\n\n\n\n\n\n\n\n\nFeb 11, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe Carpentries and MetaDocencia’s Instructor Training\n\n\n\n\n\n\n\n\n\n\n\nAug 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nALTa Ciencia Abierta (Latin America Transforms to Open Science)\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nPromoting Open Science in and from the Global South\n\n\n\n\n\n\n\n\n\n\n\nAug 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nResponsible Research & Decolonisation from a Latin American Perspective\n\n\n\n\n\n\n\n\n\n\n\nAug 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCommunities of practice in Latin America and their influence on the dissemination of open science\n\n\n\n\n\n\n\n\n\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Teach Programming Online\n\n\n\n\n\n\n\n\n\n\n\nAug 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nInsights and Innovations in Virtual Training | DUTC/NASA TOPS Talks\n\n\n\n\n\n\n\n\n\n\n\nJun 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nDplyr workshop\n\n\n\n\n\n\n\n\n\n\n\nAug 4, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R\n\n\n\n\n\n\n\n\n\n\n\nAug 4, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nFrom SPSS to R\n\n\n\n\n\n\n\n\n\n\n\nAug 4, 2019\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "talks/spss-a-r-2018/index.html",
+    "href": "talks/spss-a-r-2018/index.html",
+    "title": "From SPSS to R",
+    "section": "",
+    "text": "This is a 2 hour workshop for R-Ladies Buenos Aires planned for researcherd transitioning from SPSS to R.\nFind the recording here."
+  },
+  {
+    "objectID": "talks/quarto-rladiesba-2024/index.html",
+    "href": "talks/quarto-rladiesba-2024/index.html",
+    "title": "Introduction to Quarto",
+    "section": "",
+    "text": "The R-Ladies Buenos Aires workshop Transform Your Data into Visual Stories with Quarto presents an introduction to Quarto, an open-source publishing system designed to create dynamic and reproducible scientific and technical documents. It explores practical examples of its use in reproducible reports, covering topics such as integrating code and text, customizing output formats, and using parameters to create parameterized reports. This introductory workshop is aimed at individuals with a basic knowledge of R and little to no previous experience with Quarto.\nLearning Objectives:\n\nGet familiar with Quarto as a dynamic and reproducible publishing tool that expands the capabilities of RMarkdown.\nIdentify the possibilities it offers for creating scientific and technical documents, such as reports, presentations, and websites.\nLearn how to combine explanatory text with executable code to generate reports that automatically update results.\nUnderstand how to use parameters in Quarto to efficiently create different versions of the same document.\n\nFind recording and materials here."
+  },
+  {
+    "objectID": "talks/how-to-teach-programing-2023/index.html",
+    "href": "talks/how-to-teach-programing-2023/index.html",
+    "title": "How to Teach Programming Online",
+    "section": "",
+    "text": "During this workshop, we introduce the participant to evidence-based strategies to teach programming online effectively.\nObjective: To introduce techniques and good practices to design your programming courses and evaluate students.\nDuring this online workshop:\n\nWe show you how to design programming courses in an efficient and productive way.\nWe talk about the utility of peer-review and the importance of feedback, and how to implement these practices.\nWe present different types of assessment. For example, fill-in the blanks, faded examples, etc.\nWe recap good programming practices and how to promote them among your students.\n\nMaterials can be found here:\n\nCourse overview\nSlides\nRecording"
+  },
+  {
+    "objectID": "talks/dplyr-rladiesba-2020/index.html",
+    "href": "talks/dplyr-rladiesba-2020/index.html",
+    "title": "Dplyr workshop",
+    "section": "",
+    "text": "This is a 2 hour workshop for R-Ladies Buenos Aires about manipulation of tabular data with dplyr. This is one of the core packages of the tidyverse, a collection of R packages designed for data science. It provides a set of functions that make it easier to filter, arrange, summarize, and transform data. Together with the pipe operator (%&gt;%), they allows users to chain operations together in a clear and concise way.\nFind recording and materials here."
+  },
+  {
+    "objectID": "talks/csv-conf-2023/index.html",
+    "href": "talks/csv-conf-2023/index.html",
+    "title": "Communities of practice in Latin America and their influence on the dissemination of open science",
+    "section": "",
+    "text": "In this talk, which was presented in the csv,conf 2023, we analize what is the role of communities of practice in the dissemination and implementation of open science practices in general, and specifically, in the Latin American region. To this end, we conducted an exploratory analysis of the evolution of the use of the terms “open science” and “open science” over time from 2012 to the present. Where information was available, the representation of each region was studied. Finally, a social network analysis was performed to identify influential users and clusters of users and then the association of these with communities of practice was studied.\nThe recording is available here.\nMore information can be found in this blogpost."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog posts",
+    "section": "",
+    "text": "Posit::Conf(2024): R, Community, and Learning\n\n\n\n\n\n\nConference\n\n\nR\n\n\nOpen-source\n\n\n\n\n\n\n\n\n\nSep 18, 2024\n\n\nJesica Formoso\n\n\n\n\n\n\n\n\n\n\n\n\nWhat I learned at NumFocus DISC Unconf 2023\n\n\n\n\n\n\nConference\n\n\nDiversity & Inclusion\n\n\nOpen-source\n\n\n\n\n\n\n\n\n\nAug 18, 2023\n\n\nJesica Formoso\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/2023-08-18-disc-unconf-2023/index.html",
     "href": "posts/2023-08-18-disc-unconf-2023/index.html",
     "title": "What I learned at NumFocus DISC Unconf 2023",
@@ -112,13 +154,6 @@
     "text": "Hi everyone, I’m Jesica! I’m a Data Scientist, a Tenured Researcher at the National Scientific and Technical Research Council (CONICET) in Argentina, and the Impact Measurement Coordinator at MetaDocencia. Since 2019, I have been teaching and developing curricula for courses in statistics, programming, data science, and data visualization at the University of Buenos Aires (UBA), National Agricultural Technology Institute (INTA), and the University Institute of the Italian Hospital of Buenos Aires. I also serve as an advisor for research projects within Doctoral and Masters graduate programs in Psychology, Neuropsychology and Neuroscience at the University of Buenos Aires, the Latin American Faculty of Social Sciences (FLACSO), and the National University of Flores (UFLO), among others.\nI am passionate about fostering diversity and inclusion in the tech and data science communities. As an organizer of R-Ladies Buenos Aires, I actively work to support underrepresented genders in R and data science. Additionally, through my work with MetaDocencia, I promote open science and contribute to the development of open educational resources in Spanish, making quality learning materials more accessible."
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog posts",
-    "section": "",
-    "text": "Posit::Conf(2024): R, Community, and Learning\n\n\n\n\n\n\nConference\n\n\nR\n\n\nOpen-source\n\n\n\n\n\n\n\n\n\nSep 18, 2024\n\n\nJesica Formoso\n\n\n\n\n\n\n\n\n\n\n\n\nWhat I learned at NumFocus DISC Unconf 2023\n\n\n\n\n\n\nConference\n\n\nDiversity & Inclusion\n\n\nOpen-source\n\n\n\n\n\n\n\n\n\nAug 18, 2023\n\n\nJesica Formoso\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "posts/2024-09-18-posit-conf-2024/index.html",
     "href": "posts/2024-09-18-posit-conf-2024/index.html",
     "title": "Posit::Conf(2024): R, Community, and Learning",
@@ -140,11 +175,11 @@
     "text": "Why I Attended\nAs a passionate R user and active member of the R community, attending Posit::Conf(2024) was a dream come true. I’ve spent years organizing events for R-Ladies Buenos Aires, teaching R in undergraduate and graduate programs, and creating Spanish-language learning materials. This conference offered the chance to deepen my skills, learn about the latest tools, and meet others who share my enthusiasm for all things R."
   },
   {
-    "objectID": "posts/2024-09-18-posit-conf-2024/index.html#workshops-and-talks",
-    "href": "posts/2024-09-18-posit-conf-2024/index.html#workshops-and-talks",
+    "objectID": "posts/2024-09-18-posit-conf-2024/index.html#workshops-and-events",
+    "href": "posts/2024-09-18-posit-conf-2024/index.html#workshops-and-events",
     "title": "Posit::Conf(2024): R, Community, and Learning",
-    "section": "Workshops and Talks",
-    "text": "Workshops and Talks\nThe workshops at Posit Conf were a major highlight. I attended the Build a Dashboard with Quarto workshop, led by the amazing Mine Çetinkaya-Rundel, a developer educator at Posit, PBC. Mine’s teaching style is incredible, making the process of creating Quarto dashboards approachable and fun. If you’re curious about the workshop, check out the materials here.\nAnother standout moment was participating in the Tidyverse Developer Day. This event was an introduction to contributing to the Tidyverse ecosystem and showcased the supportive spirit of the community. Everyone was eager to help, share their thoughts, and encourage new contributors. You can read more about it here.\nThe conference was filled with inspiring talks and sessions, many of which focused on Quarto. These sessions directly connected to my professional work, and I’ve already shared some of what I learned in a workshop with R-Ladies Buenos Aires. If you know Spanish you can check it out here. We’re even planning a follow-up workshop next year to explore Quarto dashboards in more depth!"
+    "section": "Workshops and events",
+    "text": "Workshops and events\nThe workshops at Posit Conf were a major highlight. I attended the Build a Dashboard with Quarto workshop, led by the amazing Mine Çetinkaya-Rundel, a developer educator at Posit, PBC. Mine’s teaching style is incredible, making the process of creating Quarto dashboards approachable and fun. If you’re curious about the workshop, check out the materials here.\nAnother standout moment was participating in the Tidyverse Developer Day. This event was an introduction to contributing to the Tidyverse ecosystem and showcased the supportive spirit of the community. Everyone was eager to help, share their thoughts, and encourage new contributors. You can read more about it here.\nThe conference was filled with inspiring talks and sessions, many of which focused on Quarto. These sessions directly connected to my professional work, and I’ve already shared some of what I learned in a workshop with R-Ladies Buenos Aires. If you know Spanish, you can check it out here. We’re even planning a follow-up workshop next year to explore Quarto dashboards in more depth!"
   },
   {
     "objectID": "posts/2024-09-18-posit-conf-2024/index.html#building-community",
@@ -161,39 +196,11 @@
     "text": "Resources\nIf you’re curious about the workshops, the materials are available here. I highly recommend exploring them—they’re packed with useful information and practical tools that are worth checking out!\nIf you belong to an underrepresented group, don’t miss the chance to attend Posit::conf(2025). Be sure to check out the Opportunity Scholarship—it could be your gateway to an incredible experience!"
   },
   {
-    "objectID": "talks/quarto-rladiesba-2024/index.html",
-    "href": "talks/quarto-rladiesba-2024/index.html",
-    "title": "Introduction to Quarto",
+    "objectID": "talks/alta-ca-2024/index.html",
+    "href": "talks/alta-ca-2024/index.html",
+    "title": "ALTa Ciencia Abierta (Latin America Transforms to Open Science)",
     "section": "",
-    "text": "The R-Ladies Buenos Aires workshop Transform Your Data into Visual Stories with Quarto presents an introduction to Quarto, an open-source publishing system designed to create dynamic and reproducible scientific and technical documents. It explores practical examples of its use in reproducible reports, covering topics such as integrating code and text, customizing output formats, and using parameters to create parameterized reports. This introductory workshop is aimed at individuals with a basic knowledge of R and little to no previous experience with Quarto.\nLearning Objectives:\n\nGet familiar with Quarto as a dynamic and reproducible publishing tool that expands the capabilities of RMarkdown.\nIdentify the possibilities it offers for creating scientific and technical documents, such as reports, presentations, and websites.\nLearn how to combine explanatory text with executable code to generate reports that automatically update results.\nUnderstand how to use parameters in Quarto to efficiently create different versions of the same document.\n\nFind recording and materials here."
-  },
-  {
-    "objectID": "posts/2024-09-18-posit-conf-2024/index.html#workshops-and-events",
-    "href": "posts/2024-09-18-posit-conf-2024/index.html#workshops-and-events",
-    "title": "Posit::Conf(2024): R, Community, and Learning",
-    "section": "Workshops and events",
-    "text": "Workshops and events\nThe workshops at Posit Conf were a major highlight. I attended the Build a Dashboard with Quarto workshop, led by the amazing Mine Çetinkaya-Rundel, a developer educator at Posit, PBC. Mine’s teaching style is incredible, making the process of creating Quarto dashboards approachable and fun. If you’re curious about the workshop, check out the materials here.\nAnother standout moment was participating in the Tidyverse Developer Day. This event was an introduction to contributing to the Tidyverse ecosystem and showcased the supportive spirit of the community. Everyone was eager to help, share their thoughts, and encourage new contributors. You can read more about it here.\nThe conference was filled with inspiring talks and sessions, many of which focused on Quarto. These sessions directly connected to my professional work, and I’ve already shared some of what I learned in a workshop with R-Ladies Buenos Aires. If you know Spanish, you can check it out here. We’re even planning a follow-up workshop next year to explore Quarto dashboards in more depth!"
-  },
-  {
-    "objectID": "talks/ttt-2024/index.html",
-    "href": "talks/ttt-2024/index.html",
-    "title": "The Carpentries and MetaDocencia’s Instructor Training",
-    "section": "",
-    "text": "During 2024, I participated as a trainer in the context of Intructor Training with The Carpentries curriculum. Instructor Training familiarizes trainees with evidence-based teaching practices, helps them develop strategies for fostering a positive learning environment in workshops, and offers opportunities to practice and enhance their teaching skills.\nMaterials in English.\nMaterials in Spanish: - Día 1 - Día 2 - Día 3 - Día 4"
-  },
-  {
-    "objectID": "talks/quest-2024/index.html",
-    "href": "talks/quest-2024/index.html",
-    "title": "Responsible Research & Decolonisation from a Latin American Perspective",
-    "section": "",
-    "text": "AS part of MetaDocencia, I was part of the organizing committee for the Summer School/Alumni Seminar: Decolonizing Global Health with a focus on Biomedical Sciences, Research and Education, where I also participated as a Lecturer talking about responsible research & decolonisation from a Latin American perspective, together with Laura Ación, Laura Ascenzi, and Karina formoso.\nFind the slides here. Additional information can be found in this blogpost."
-  },
-  {
-    "objectID": "talks/elife-2024/index.html",
-    "href": "talks/elife-2024/index.html",
-    "title": "Promoting Open Science in and from the Global South",
-    "section": "",
-    "text": "In this first webinar from eLife’s Global South Committee for Open Science, we explored the challenges faced in this region and shared our collective vision for enhancing Open Science infrastructure and promotion. I participated as a guest panellists together with Emmanuel Boakye and Hu Chuan-Peng.\nFind the recording here."
+    "text": "The ALTa Ciencia Abierta course is designed to provide a comprehensive introduction to open science practices, focusing on key topics like reproducible research, open data, and collaborative workflows, for Spanish-speaking communities. It aims to equip researchers with the tools and knowledge to make their work more transparent, accessible, and reproducible.\nDuring 2024, I had the pleasure of teaching the module on open code in the three editions of the course, alongside Patricia Loto. In this module, we explored best practices for sharing and collaborating on code, ensuring that research processes remain open, reproducible, and easy for others to follow.\nThis course is part of a broader initiative supported by NASA - NASA TOPS - which promotes open science and collaboration across the global research community. MetaDocencia’s participation in this initiative is a significant step towards fostering a more inclusive and transparent scientific community, ensuring that research is accessible and reproducible for everyone, regardless of location or resources.\n\nLink to the website\nLink to the Open Code module"
   },
   {
     "objectID": "talks/dont-use-this-code-2024/index.html",
@@ -203,38 +210,24 @@
     "text": "During this community event organized by Don’t Use This Code in the context of the NASA TOPS inciative, I participated of a round-table discussion regarding innovations in virtual tranings with Brian Knosp, Scientific Applications Software Engineer at NASA’s Jet Propulsion Laboratory, Kenji Nomura, High School STEM teacher currently serving as an Albert Einstein Distinguished Educator fellow at NASA in the Science Activation (SciAct) program, and James Powel from Don’t Use This Code.\nFind the recording here."
   },
   {
-    "objectID": "talks/alta-ca-2024/index.html",
-    "href": "talks/alta-ca-2024/index.html",
-    "title": "ALTa Ciencia Abierta (Latin America Transforms to Open Science)",
+    "objectID": "talks/elife-2024/index.html",
+    "href": "talks/elife-2024/index.html",
+    "title": "Promoting Open Science in and from the Global South",
     "section": "",
-    "text": "The ALTa Ciencia Abierta course is designed to provide a comprehensive introduction to open science practices, focusing on key topics like reproducible research, open data, and collaborative workflows, for Spanish-speaking communities. It aims to equip researchers with the tools and knowledge to make their work more transparent, accessible, and reproducible.\nDuring 2024, I had the pleasure of teaching the module on open code in the three editions of the course, alongside Patricia Loto. In this module, we explored best practices for sharing and collaborating on code, ensuring that research processes remain open, reproducible, and easy for others to follow.\nThis course is part of a broader initiative supported by NASA - NASA TOPS - which promotes open science and collaboration across the global research community. MetaDocencia’s participation in this initiative is a significant step towards fostering a more inclusive and transparent scientific community, ensuring that research is accessible and reproducible for everyone, regardless of location or resources.\n\nLink to the website\nLink to the Open Code module"
+    "text": "In this first webinar from eLife’s Global South Committee for Open Science, we explored the challenges faced in this region and shared our collective vision for enhancing Open Science infrastructure and promotion. I participated as a guest panellists together with Emmanuel Boakye and Hu Chuan-Peng.\nFind the recording here."
   },
   {
-    "objectID": "talks/csv-conf-2023/index.html",
-    "href": "talks/csv-conf-2023/index.html",
-    "title": "Communities of practice in Latin America and their influence on the dissemination of open science",
+    "objectID": "talks/quest-2024/index.html",
+    "href": "talks/quest-2024/index.html",
+    "title": "Responsible Research & Decolonisation from a Latin American Perspective",
     "section": "",
-    "text": "In this talk, which was presented in the csv,conf 2023, we analize what is the role of communities of practice in the dissemination and implementation of open science practices in general, and specifically, in the Latin American region. To this end, we conducted an exploratory analysis of the evolution of the use of the terms “open science” and “open science” over time from 2012 to the present. Where information was available, the representation of each region was studied. Finally, a social network analysis was performed to identify influential users and clusters of users and then the association of these with communities of practice was studied.\nThe recording is available here.\nMore information can be found in this blogpost."
+    "text": "AS part of MetaDocencia, I was part of the organizing committee for the Summer School/Alumni Seminar: Decolonizing Global Health with a focus on Biomedical Sciences, Research and Education, where I also participated as a Lecturer talking about responsible research & decolonisation from a Latin American perspective, together with Laura Ación, Laura Ascenzi, and Karina formoso.\nFind the slides here. Additional information can be found in this blogpost."
   },
   {
-    "objectID": "talks/dplyr-rladiesba-2020/index.html",
-    "href": "talks/dplyr-rladiesba-2020/index.html",
-    "title": "Dplyr workshop",
+    "objectID": "talks/ttt-2024/index.html",
+    "href": "talks/ttt-2024/index.html",
+    "title": "The Carpentries and MetaDocencia’s Instructor Training",
     "section": "",
-    "text": "This is a 2 hour workshop for R-Ladies Buenos Aires about manipulation of tabular data with dplyr. This is one of the core packages of the tidyverse, a collection of R packages designed for data science. It provides a set of functions that make it easier to filter, arrange, summarize, and transform data. Together with the pipe operator (%&gt;%), they allows users to chain operations together in a clear and concise way.\nFind recording and materials here."
-  },
-  {
-    "objectID": "talks/how-to-teach-programing-2023/index.html",
-    "href": "talks/how-to-teach-programing-2023/index.html",
-    "title": "How to Teach Programming Online",
-    "section": "",
-    "text": "During this workshop, we introduce the participant to evidence-based strategies to teach programming online effectively.\nObjective: To introduce techniques and good practices to design your programming courses and evaluate students.\nDuring this online workshop:\n\nWe show you how to design programming courses in an efficient and productive way.\nWe talk about the utility of peer-review and the importance of feedback, and how to implement these practices.\nWe present different types of assessment. For example, fill-in the blanks, faded examples, etc.\nWe recap good programming practices and how to promote them among your students.\n\nMaterials can be found here:\n\nCourse overview\nSlides\nRecording"
-  },
-  {
-    "objectID": "talks/spss-a-r-2018/index.html",
-    "href": "talks/spss-a-r-2018/index.html",
-    "title": "From SPSS to R",
-    "section": "",
-    "text": "This is a 2 hour workshop for R-Ladies Buenos Aires planned for researcherd transitioning from SPSS to R.\nFind the recording here."
+    "text": "During 2024, I participated as a trainer in the context of Intructor Training with The Carpentries curriculum. Instructor Training familiarizes trainees with evidence-based teaching practices, helps them develop strategies for fostering a positive learning environment in workshops, and offers opportunities to practice and enhance their teaching skills.\nMaterials in English.\nMaterials in Spanish: - Día 1 - Día 2 - Día 3 - Día 4"
   }
 ]
