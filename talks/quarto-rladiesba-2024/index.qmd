@@ -2,6 +2,7 @@
 authors: [Jesica Formoso]
 date: "2024-11-26"
 title: Introduction to Quarto
+image: rladies1.png
 ---
 
 The R-Ladies Buenos Aires workshop **Transform Your Data into Visual Stories with Quarto** presents an introduction to Quarto, an open-source publishing system designed to create dynamic and reproducible scientific and technical documents. It explores practical examples of its use in reproducible reports, covering topics such as integrating code and text, customizing output formats, and using parameters to create parameterized reports. This introductory workshop is aimed at individuals with a basic knowledge of R and little to no previous experience with Quarto.
@@ -13,4 +14,4 @@ The R-Ladies Buenos Aires workshop **Transform Your Data into Visual Stories wit
 -   Learn how to combine explanatory text with executable code to generate reports that automatically update results.
 -   Understand how to use parameters in Quarto to efficiently create different versions of the same document.
 
-[Find recording and materials here.](https://jformoso.github.io/quarto-rladiesBA/)
+Find recording and materials [here](https://jformoso.github.io/quarto-rladiesBA/).

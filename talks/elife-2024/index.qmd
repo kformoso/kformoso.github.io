@@ -2,6 +2,7 @@
 authors: [Jesica Formoso]
 date: "2024-05-20"
 title: Promoting Open Science in and from the Global South
+image: elife.jpg
 ---
 
 In this first webinar from eLife’s Global South Committee for Open Science, we explored the challenges faced in this region and shared our collective vision for enhancing Open Science infrastructure and promotion. I participated as a guest panellists together with Emmanuel Boakye and Hu Chuan-Peng. 
