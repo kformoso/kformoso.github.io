@@ -1,0 +1,9 @@
+---
+authors: [Jesica Formoso]
+date: "2018-20-04"
+title: From SPSS to R
+---
+
+This is a 2 hour workshop for R-Ladies Buenos Aires planned for researcherd transitioning from SPSS to R. 
+
+[Find the recording here.](https://www.youtube.com/live/h_GW-uz-OoU?si=TIcFUvoxiu-v6kFF)

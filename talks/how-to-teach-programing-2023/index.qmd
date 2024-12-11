@@ -1,0 +1,28 @@
+---
+authors: [Jesica Formoso]
+date: "2023-20-04"
+title: How to Teach Programming Online
+---
+
+During this workshop, we introduce the participant to evidence-based strategies to teach programming online effectively. 
+
+**Objective:** To introduce techniques and good practices to design your programming courses and evaluate students.
+
+During this online workshop:
+
+- We show you how to design programming courses in an efficient and productive way.
+
+- We talk about the utility of peer-review and the importance of feedback, and how to implement these practices.
+
+- We present different types of assessment. For example, fill-in the blanks, faded examples, etc.
+
+- We recap good programming practices and how to promote them among your students.
+
+**Materials can be found here:**
+
+- [Course overview](https://www.metadocencia.org/en/curso/programar/)
+- [Slides](https://docs.google.com/presentation/d/1sj6tbtqjWY8AvcQLVih3FTFIa1pKERFRxk3KY8KK13w/edit#slide=id.g170e5c2660d_0_5)
+- [Recording](https://youtu.be/awRCNo0PEZU?si=nopBWSH5zAEGU4U5)
+
+
+

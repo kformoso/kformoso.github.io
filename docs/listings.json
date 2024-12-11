@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/talks_workshops.html",
+    "items": [
+      "/talks/quarto-rladiesba-2024/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2024-09-18-posit-conf-2024/index.html",
+      "/posts/2023-08-18-disc-unconf-2023/index.html"
+    ]
+  }
+]

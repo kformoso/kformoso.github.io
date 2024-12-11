@@ -1,0 +1,7 @@
+---
+title: "Talks, Workshops, and Courses"
+listing:
+  contents: talks
+  sort: "date desc"
+page-layout: full
+---

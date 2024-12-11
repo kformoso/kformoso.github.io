@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jesica Formoso"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: posts.qmd
+        text: Posts
+      - href: posts.qmd
+        text: Talks/workshops
+    right:
+      - icon: github
+        href: https://github.com/jformoso/
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jesica-formoso-16ab4649/
+      - icon: twitter
+        href: https://twitter.com/JesiFormoso/
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

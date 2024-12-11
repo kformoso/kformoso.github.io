@@ -1,0 +1,46 @@
+---
+title: "Posit::Conf(2024): R, Community, and Learning"
+author: "Jesica Formoso"
+date: "2024-09-18"
+slug: posit-conf-2024
+categories:
+  - Conference
+  - R
+  - Open-source
+tags:
+  - R
+  - Conference
+  - Open-source
+description: ""
+type: post
+---
+
+## Hi, Posit::conf(2024)!
+
+This August, I had the incredible opportunity to attend [Posit::conf(2024)](https://posit.co/conference/) in Seattle, thanks to the **Opportunity Scholarship**. From August 12 to 14, I joined a group of R enthusiasts, data scientists, and educators to learn, explore the latest advancements in data science, and connect with others in the R community.
+
+## Why I Attended
+
+As a passionate R user and active member of the R community, attending Posit::Conf(2024) was a dream come true. I’ve spent years organizing events for [R-Ladies Buenos Aires](https://rladiesba.netlify.app/), teaching R in undergraduate and graduate programs, and creating Spanish-language learning materials. This conference offered the chance to deepen my skills, learn about the latest tools, and meet others who share my enthusiasm for all things R.
+
+## Workshops and events
+
+The workshops at Posit Conf were a major highlight. I attended the **Build a Dashboard with Quarto** workshop, led by the amazing [Mine Çetinkaya-Rundel](https://mine-cr.com/), a developer educator at Posit, PBC. Mine’s teaching style is incredible, making the process of creating Quarto dashboards approachable and fun. If you’re curious about the workshop, check out the materials [here](https://posit-conf-2024.github.io/quarto-dashboards/).
+
+Another standout moment was participating in the **Tidyverse Developer Day.** This event was an introduction to contributing to the Tidyverse ecosystem and showcased the supportive spirit of the community. Everyone was eager to help, share their thoughts, and encourage new contributors. You can read more about it [here](https://www.tidyverse.org/blog/2024/04/tdd-2024/).
+
+The conference was filled with inspiring talks and sessions, many of which focused on Quarto. These sessions directly connected to my professional work, and I’ve already shared some of what I learned in a [workshop with R-Ladies Buenos Aires](https://jformoso.github.io/quarto-rladiesBA/). If you know Spanish, you can check it out [here](https://www.youtube.com/watch?v=puykTjJ43Xs). We’re even planning a follow-up workshop next year to explore Quarto dashboards in more depth!
+
+## Building Community
+
+Posit Conf was not just about learning—it was also about connecting. I attended the Opportunity Scholar Lunch, where I met fellow scholars and Posit team members, including Hadley Wickham, Hannah Frick, Carlos Scheidegger, and the wonderful Kaia Cooper. The lunch was casual, fun, and an excellent chance to meet other Opportunity Scholars and our hosts at Posit, PBC.
+
+Another memorable moment was meeting members of the [rainbowR community](https://rainbowr.org/), which supports LGBTQ+ individuals in the R community. Sharing stories and experiences over lunch with this group was both heartwarming and inspiring.
+
+The atmosphere at Posit::conf(2024) was everything I hoped for. I met R enthusiasts from all over the world, spanning diverse disciplines, from academia to industry. It was a reminder of the incredible reach and versatility of the R community.
+
+## Resources
+
+If you’re curious about the workshops, the materials are available [here](https://posit-conf-2024.github.io/workshops/). I highly recommend exploring them—they’re packed with useful information and practical tools that are worth checking out!
+
+If you belong to an underrepresented group, don’t miss the chance to attend [Posit::conf(2025)](https://posit.co/conference/). Be sure to check out the Opportunity Scholarship—it could be your gateway to an incredible experience!

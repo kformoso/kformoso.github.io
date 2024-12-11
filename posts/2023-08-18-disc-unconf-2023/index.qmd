@@ -1,0 +1,40 @@
+---
+title: "What I learned at NumFocus DISC Unconf 2023"
+author: "Jesica Formoso"
+date: '2023-08-18'
+slug: disc-unconf-2023
+categories:
+  - Conference
+  - Diversity & Inclusion
+  - Open-source
+tags:
+  - Diversity & Inclusion
+  - Conference
+  - Open-source
+description: ""
+type: post
+---
+
+In September 2023, I had the opportunity to attend the [NumFocus DISC Unconference](https://numfocus.org/)—a gathering dedicated to creating a more equitable open-source data science community. As someone committed to promoting open practices in research, data, and scientific computing in Latin America, this event offered a unique space to connect with leaders in these fields and work together on meaningful projects.
+
+The open-source community remains relatively homogenous, which limits its potential. Events like the DISC Unconf provide a space to brainstorm how to make it more representative and inclusve. My role at the event was as a contributor, and I focused on a project that resonates deeply with my experiences as a researcher from the global south: [Knowhow: everything you wanted to know about applying for grants but didn’t ask](https://numfocus.github.io/disc-unconference-2023-projects/en/hidden-curriculum.html).
+
+## Knowhow: everything you wanted to know about applying for grants but didn’t ask
+
+This project aimed to tackle a critical barrier faced by researchers from underrepresented regions when applying for grants from the global north. For many of us, the application process often feels foreign and inaccessible due to cultural and systemic differences. These challenges discourage talented researchers from applying, perpetuating inequality in access to resources.
+
+The project’s goal was to design a curriculum and coaching program to support potential grantees in navigating the grant process. From identifying suitable funding opportunities to crafting proposals, creating budgets, and building collaborations, the program seeks to level the playing field and enable fairer engagement.
+
+I collaborated with an incredible team, including Laura Ación, Jessica Greene, Barbara Wilk, Kate Hertweck, Yo Yehudi, Tania Allard, and Mariana Meireles. Working alongside individuals from diverse backgrounds was inspiring. Their varied perspectives challenged my thinking and enriched the project in ways I hadn’t anticipated.
+
+## A Memorable Experience
+
+The unconference was a fantastic experience. I met leaders in the open-source world, learned about initiatives making these communities more accessible, and participated in a project that I believe could have a tangible impact on researchers in my region. The brainstorming sessions and collaborative work stood out as particularly productive and inspiring.
+
+As a researcher from Argentina, I appreciated the opportunity to share my experiences and perspectives. One key takeaway was the importance of having participants from underrepresented regions in decision-making spaces. Solutions to our challenges must include our voices to be truly effective and relevant.
+
+I’m especially excited that the [DISC Unconf 2025](https://numfocus.github.io/disc-unconference-2025/) will take place in São Paulo, Brazil. This move will bring more Latin American researchers to the table and foster regional collaboration.
+
+## Why You Should Attend the DISC Unconf
+
+If you are part of a group that is underrepresented in open-source or scientific computing communities, I highly recommend attending a DISC Unconf. It’s a unique opportunity to connect with like-minded individuals, contribute to impactful projects, and ensure your voice is part of the conversation. Beyond networking, it’s a chance to help shape the future of open practices in a way that benefits everyone.
