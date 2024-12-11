@@ -7,4 +7,4 @@ image: dutc.png
 
 During this community event organized by Don't Use This Code in the context of the NASA TOPS inciative, I participated of a round-table discussion regarding innovations in virtual tranings with Brian Knosp, Scientific Applications Software Engineer at NASA’s Jet Propulsion Laboratory, Kenji Nomura, High School STEM teacher currently serving as an Albert Einstein Distinguished Educator fellow at NASA in the Science Activation (SciAct) program, and James Powel from Don't Use This Code.
 
-[Find the recording here.](https://youtu.be/-0baeh8E_G0?feature=shared)
+Find the recording [here.](https://youtu.be/-0baeh8E_G0?feature=shared)

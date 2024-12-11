@@ -1,5 +1,5 @@
 ---
-authors: [Jesica Formoso]
+authors: [Jesica Formoso, Mariela Rajngewerc]
 date: "2023-04-20"
 title: How to Teach Programming Online
 image: programar.jpg

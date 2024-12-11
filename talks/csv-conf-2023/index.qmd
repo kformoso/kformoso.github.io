@@ -1,5 +1,5 @@
 ---
-authors: [Jesica Formoso]
+authors: [Jesica Formoso, Laura Ascenzi, Mariela Rajngewerc, Patricia Andrea Loto]
 date: "2023-04-28"
 title: Communities of practice in Latin America and their influence on the dissemination of open science
 image: csvconf.png

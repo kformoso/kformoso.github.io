@@ -2,8 +2,9 @@
 authors: [Jesica Formoso]
 date: "2020-04-20"
 title: Dplyr workshop
+image: dplyr.png
 ---
 
 This is a 2 hour workshop for R-Ladies Buenos Aires about manipulation of tabular data with **dplyr**. This is one of the core packages of the tidyverse, a collection of R packages designed for data science. It provides a set of functions that make it easier to filter, arrange, summarize, and transform data. Together with the pipe operator (%>%), they allows users to chain operations together in a clear and concise way.
 
-[Find recording and materials here.](https://rladiesba.netlify.app/project/charlar7/)
+Find the recording and materials [here.](https://rladiesba.netlify.app/project/charlar7/)

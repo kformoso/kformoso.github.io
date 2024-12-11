@@ -11,5 +11,5 @@ During 2024, I had the pleasure of teaching the module on **open code** in the t
 
 This course is part of a broader initiative supported by NASA - NASA TOPS - which promotes open science and collaboration across the global research community. MetaDocencia’s participation in this initiative is a significant step towards fostering a more inclusive and transparent scientific community, ensuring that research is accessible and reproducible for everyone, regardless of location or resources.
 
-- [Link to the website](https://www.metadocencia.org/en/proyecto/nasa-spanish/)
-- [Link to the Open Code module](https://zenodo.org/records/14047967)
+- Link to the [website](https://www.metadocencia.org/en/proyecto/nasa-spanish/)
+- Link to the [Open Code module](https://zenodo.org/records/14047967)

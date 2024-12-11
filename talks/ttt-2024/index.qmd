@@ -2,6 +2,7 @@
 authors: [Jesica Formoso]
 date: "2024-10-01"
 title: The Carpentries and MetaDocencia’s Instructor Training
+image: ttt.png
 ---
 
 During 2024, I participated as a trainer in the context of Intructor Training with The Carpentries curriculum. Instructor Training familiarizes trainees with evidence-based teaching practices, helps them develop strategies for fostering a positive learning environment in workshops, and offers opportunities to practice and enhance their teaching skills. 

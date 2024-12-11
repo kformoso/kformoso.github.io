@@ -1,10 +1,18 @@
 ---
-authors: [Jesica Formoso]
+authors: [Patricia Loto, Irene Vazano, Jesica Formoso]
 date: "2024-04-20"
-title: Pre-Congress Workshop: Data Science for Psychologist (with R and RStudio)
-image: cien_datos.jpg
+title: A Shiny app for mapping open-science communities, organizations & events in Latin America (Lightning Talk)
+image: cfa.jpg
 ---
 
-This was a pre-congress workshop taught during the 16th International Congress of Research and Professional Practice in Psychology held in the University of Buenos Aires. The objective was to introduce participants to the fundamental concepts and tools of data science applied to psychological research using R. It was tailored for researchers, practitioners, and students who wish to enhance their skills in data analysis and visualization within the field of psychology.
+The presentation *"A Shiny App for Mapping Open-Science Communities, Organizations & Events in Latin America"* highlighted the challenges of limited resources and spaces in Spanish for open science in Latin America, as well as the difficulty of identifying active communities and networks practicing open science in the region.
 
-Find the slides [here.](https://docs.google.com/presentation/d/1MrY5u30DEXbpqI1c9M7dBNantMRjfSJhXsdYu0HfbiI/edit?usp=sharing)
+It emphasized the lack of a centralized, up-to-date repository to facilitate access to key information about resources, events, and communities, which hinders collaboration and knowledge exchange.
+
+As a solution, the presentation proposed the development of a collaborative repository accessible through a Shiny application. This repository aims to centralize and map open science resources and communities in the region, enabling users to connect with local and regional initiatives, access resources, and actively participate in promoting open science practices.
+
+The app is envisioned as not only a useful tool for researchers and organizations but also a bridge to foster collaboration and visibility for open science across Latin America. 
+
+An initial version can be found [here](https://www.metadocencia.org/proyecto/mapeo-comunidades/). 
+
+You can find the presentation slides [here.](https://docs.google.com/presentation/d/1aJ8POmzZIvZF_OumrVwY1PzpOhQYVdOlPIDg1nUAk2E/edit#slide=id.g170e5c2660d_0_5)

@@ -7,4 +7,4 @@ image: elife.jpg
 
 In this first webinar from eLife’s Global South Committee for Open Science, we explored the challenges faced in this region and shared our collective vision for enhancing Open Science infrastructure and promotion. I participated as a guest panellists together with Emmanuel Boakye and Hu Chuan-Peng. 
 
-[Find the recording here.](https://youtu.be/LAn7cA5okSk?si=3pufojhHa0dqQ3EB)
+Find the recording [here.](https://youtu.be/LAn7cA5okSk?si=3pufojhHa0dqQ3EB)

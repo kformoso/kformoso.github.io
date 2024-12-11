@@ -1,7 +1,7 @@
 ---
 authors: [Jesica Formoso]
 date: "2024-04-20"
-title: Introducción a Open Sesame
+title: Introduction to OpenSesame
 image: OS.jpg
 ---
 

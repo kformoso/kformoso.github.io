@@ -1,10 +1,10 @@
 ---
-authors: [Jesica Formoso]
+authors: [Irene Vazano, Jesica Formoso, Patricia Loto]
 date: "2024-04-20"
-title: Pre-Congress Workshop: Data Science for Psychologist (with R and RStudio)
-image: cien_datos.jpg
+title: Mapping open-science communities, organizations & events in Latin America (Lightning Talk)
+image: cfa.jpg
 ---
 
-This was a pre-congress workshop taught during the 16th International Congress of Research and Professional Practice in Psychology held in the University of Buenos Aires. The objective was to introduce participants to the fundamental concepts and tools of data science applied to psychological research using R. It was tailored for researchers, practitioners, and students who wish to enhance their skills in data analysis and visualization within the field of psychology.
+The session showcases MetaDocencia's initiative to make information available regarding resources, events, workshops, funding opportunities, and open science communities in Latin America through a collaborative repository. This repository will be available to anyone who wants to access resources on open science, get in touch with other regional and local actors in Latin America, or participate in the dissemination of open practices. This project was presented in [Code for All's 2023 Summit](https://codeforall.org/summit-2023) (september 18-21). 
 
-Find the slides [here.](https://docs.google.com/presentation/d/1MrY5u30DEXbpqI1c9M7dBNantMRjfSJhXsdYu0HfbiI/edit?usp=sharing)
+Find the recording [here.](https://youtu.be/NBo4AUAVu8g?si=sRLo2TtMtkn9fhDJ)
