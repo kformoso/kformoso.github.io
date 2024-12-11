@@ -33,7 +33,7 @@ The conference was filled with inspiring talks and sessions, many of which focus
 
 ## Building Community
 
-Posit Conf was not just about learning—it was also about connecting. I attended the Opportunity Scholar Lunch, where I met fellow scholars and Posit team members, including Hadley Wickham, Hannah Frick, Carlos Scheidegger, and the wonderful Kaia Cooper. The lunch was casual, fun, and an excellent chance to meet other Opportunity Scholars and our hosts at Posit, PBC.
+Posit Conf was not just about learning—it was also about connecting. I attended the Opportunity Scholar Lunch, where I met fellow scholars and Posit team members, including Hadley Wickham, Hannah Frick, Carlos Scheidegger, and the wonderful Kaia Cooper. The lunch was casual, fun, and an excellent chance to get to know each other a little bit.
 
 Another memorable moment was meeting members of the [rainbowR community](https://rainbowr.org/), which supports LGBTQ+ individuals in the R community. Sharing stories and experiences over lunch with this group was both heartwarming and inspiring.
 
