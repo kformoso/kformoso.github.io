@@ -12,7 +12,7 @@ website:
         text: CV
       - href: posts.qmd
         text: Posts
-      - href: posts.qmd
+      - href: talks.qmd
         text: Talks/workshops
     right:
       - icon: github
