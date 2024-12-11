@@ -1,0 +1,16 @@
+---
+authors: [Irene Vazano, Jesica Formoso]
+date: "2023-14-08"
+title: A Path to Open, Inclusive, and Collaborative Science for Librarians
+image: lc_logo.svg
+---
+
+In 2023, Irene and I received an award to participate in the [UCLA-IMLS Open Science for Librarians Collaborative Lesson Development Workshop](https://ucla-imls-open-sci.info/), a project sponsored by The Carpentries. This opportunity provided us with specialized training to develop our proposed lesson, "A Path to Open, Inclusive, and Collaborative Science for Librarians". 
+
+During the workshop, we gained insights into lesson design and community-driven curriculum development. The program emphasized inclusivity and collaboration. 
+As a result of this workshop, we’ve been working on the lesson, which is now available in a Pre-Alpha state. You can check out the progress:
+
+- [GitHub Repository](https://github.com/LibraryCarpentry/lc-collaborative-science).
+- [Lesson Website](https://librarycarpentry.github.io/lc-collaborative-science/).
+
+
