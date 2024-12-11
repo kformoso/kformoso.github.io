@@ -2,7 +2,7 @@
 authors: [Jesica Formoso]
 date: "2024-06-20"
 title: ALTa Ciencia Abierta (Latin America Transforms to Open Science)
-image: images/alta.jpg
+image: alta.jpg
 ---
 
 The ALTa Ciencia Abierta course is designed to provide a comprehensive introduction to open science practices, focusing on key topics like reproducible research, open data, and collaborative workflows, for Spanish-speaking communities. It aims to equip researchers with the tools and knowledge to make their work more transparent, accessible, and reproducible.
