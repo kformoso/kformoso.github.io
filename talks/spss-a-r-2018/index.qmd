@@ -2,6 +2,7 @@
 authors: [Jesica Formoso]
 date: "2018-04-30"
 title: From SPSS to R
+image: spss-a-r.png
 ---
 
 This is a 2 hour workshop for R-Ladies Buenos Aires planned for researcherd transitioning from SPSS to R. 
