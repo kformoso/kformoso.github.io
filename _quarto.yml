@@ -8,12 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: cv.qmd
-        text: CV
       - href: posts.qmd
         text: Posts
       - href: talks.qmd
         text: Talks/workshops
+      - href: cv.qmd
+        text: CV
     right:
       - icon: github
         href: https://github.com/jformoso/

@@ -7,7 +7,6 @@ editor: visual
 
 I am currently a Tenured Researcher at CIIPME-CONICET and serve as the Impact Measurement Coordinator and Instructor at MetaDocencia, where I advocate for Open Science across Latin America and the Caribbean. I am actively involved in communities of practice that support data science education, including co-organizing the Buenos Aires chapter of R-Ladies. I have over a decade of teaching experience as a faculty member at the University of Buenos Aires and more than five years of experience designing and teaching courses on statistics, R programming, and data science. Additionally, I contribute to open educational resources by developing tutorials, workshops, and course materials for teaching R programming, data science, and statistics in Spanish. I am also an Instructor and Trainer for The Carpentries and RStudio (now Posit).
 
-
 ## Selected education
 
 **Ph.D., Ethical, Humanistic, and Social Medical Sciences (2017)**
@@ -34,27 +33,17 @@ I am currently a Tenured Researcher at CIIPME-CONICET and serve as the Impact Me
 
 ## Selected research experience
 
-**Tenured Researcher (2019-2022)**
-- Cognitive Studies lab at the Psychological Research Institute, School of Psychology, University of Buenos Aires (UBA)
-- National Scientific and Technical Research Council (CONICET)
+**Tenured Researcher (2019-2022)** - Cognitive Studies lab at the Psychological Research Institute, School of Psychology, University of Buenos Aires (UBA) - National Scientific and Technical Research Council (CONICET)
 
-**Tenured Researcher (2023 to date)**
-- Interdisciplinary Center for Research in Mathematical and Experimental Psychology "Dr. Horacio J. A. Rimoldi" (CIIPME)
-- National Scientific and Technical Research Council (CONICET) 
+**Tenured Researcher (2023-present)** - Interdisciplinary Center for Research in Mathematical and Experimental Psychology "Dr. Horacio J. A. Rimoldi" (CIIPME) - National Scientific and Technical Research Council (CONICET)
 
 ## Selected teaching experience
 
-**Instructor and Trainer (2020 - present)**
-- Data Carpentry & The Carpentries
-- RStudio (Posit)
+**Instructor and Trainer (2020 - present)** - Data Carpentry & The Carpentries - RStudio (Posit)
 
-**Lead Instructor (2018 - 2024)**
-- R programming, Data analysis and visualization courses for graduate psychology and health students
-- UBA; Italian Hospital University Institute
+**Lead Instructor (2018 - 2024)** - R programming, Data analysis and visualization courses for graduate psychology and health students - UBA; Italian Hospital University Institute
 
-**Assistant Teaching Professor (2013 - 2024)**
-- Statistics, BSc. in Psyhology, School of Psychology, UBA
-- Neurophysiology, BSc. in Psyhology, School of Psychology, UBA 
+**Assistant Teaching Professor (2013 - 2024)** - Statistics, BSc. in Psyhology, School of Psychology, UBA - Neurophysiology, BSc. in Psyhology, School of Psychology, UBA
 
 ## Selected community developments
 
@@ -65,7 +54,6 @@ MetaDocencia is an organization committed to advancing Open Science practices ac
 **R-Ladies Buenos Aires - organizer/Instructor (2020 - present)**
 
 R-Ladies is an international initiative dedicated to promoting diversity and inclusion within the R programming community. The Buenos Aires chapter organizes 3 to 6 events annually, featuring activities such as technical skill-building workshops, short presentations by members and guest speakers, as well as community-building and networking opportunities.
-
 
 ## Selected professional Activities
 
