@@ -1,6 +1,6 @@
 ---
 authors: [Jesica Formoso]
-date: "2024-20-05"
+date: "2024-05-20"
 title: Promoting Open Science in and from the Global South
 ---
 

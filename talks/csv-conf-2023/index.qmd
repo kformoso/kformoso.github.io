@@ -1,6 +1,6 @@
 ---
 authors: [Jesica Formoso]
-date: "2023-28-04"
+date: "2023-04-28"
 title: Communities of practice in Latin America and their influence on the dissemination of open science
 ---
 

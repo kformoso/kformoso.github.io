@@ -1,6 +1,6 @@
 ---
 authors: [Jesica Formoso]
-date: "2024-20-04"
+date: "2024-04-20"
 title: Responsible Research & Decolonisation from a Latin American Perspective
 ---
 

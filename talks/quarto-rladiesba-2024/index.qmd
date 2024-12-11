@@ -1,6 +1,6 @@
 ---
 authors: [Jesica Formoso]
-date: "2024-26-11"
+date: "2024-11-26"
 title: Introduction to Quarto
 ---
 

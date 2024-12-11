@@ -1,6 +1,6 @@
 ---
 authors: [Jesica Formoso]
-date: "2024-20-06"
+date: "2024-06-20"
 title: ALTa Ciencia Abierta (Latin America Transforms to Open Science)
 ---
 
