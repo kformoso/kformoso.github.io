@@ -2,6 +2,8 @@
 authors: [Jesica Formoso]
 date: "2023-04-20"
 title: How to Teach Programming Online
+image: programar.jpg
+image-alt: "Foto de Mohammad Rahmani en Unsplash"
 ---
 
 During this workshop, we introduce the participant to evidence-based strategies to teach programming online effectively. 

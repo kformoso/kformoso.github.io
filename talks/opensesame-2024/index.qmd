@@ -1,0 +1,17 @@
+---
+authors: [Jesica Formoso]
+date: "2024-04-20"
+title: Introducción a Open Sesame
+image: OS.jpg
+---
+
+This presentation was an introductory workshop on [OpenSesame](https://osdoc.cogsci.nl/) designed for researchers in Cognitive Psychology and Education. OpenSesame is open-source software created to design experiments and research tasks.
+
+During the workshop, we explored:
+
+- The interface and basic features of OpenSesame.
+- How to configure the structure of an experimental task.
+- Stimulus presentation to participants.
+- Response collection and data recording.
+
+You can find the slides [here](https://docs.google.com/presentation/d/1V1NwuSTrRHvsHDRw6v-KXhNtubbNmmQyWa_e_SIJy8Y/edit?usp=sharing).

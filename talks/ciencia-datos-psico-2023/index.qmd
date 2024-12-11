@@ -1,12 +1,10 @@
 ---
 authors: [Jesica Formoso]
 date: "2024-04-20"
-title: Responsible Research & Decolonisation from a Latin American Perspective
-image: quest.jpg
+title: Pre-Congress Workshop: Data Science for Psychologist (with R and RStudio)
+image: cien_datos.jpg
 ---
 
-AS part of MetaDocencia, I was part of the organizing committee for the [**Summer School/Alumni Seminar: Decolonizing Global Health with a focus on Biomedical Sciences, Research and Education**](https://www.bihealth.org/en/notices/summer-school-decolonizing-global-health), where I also participated as a Lecturer talking about responsible research & decolonisation from a Latin American perspective, together with Laura Ación, Laura Ascenzi, and Karina formoso.    
+This was a pre-congress workshop taught during the 16th International Congress of Research and Professional Practice in Psychology held in the University of Buenos Aires. The objective was to introduce participants to the fundamental concepts and tools of data science applied to psychological research using R. It was tailored for researchers, practitioners, and students who wish to enhance their skills in data analysis and visualization within the field of psychology.
 
-
-[Find the slides here.](https://zenodo.org/records/10854851)
-[Additional information can be found in this blogpost.](https://www.metadocencia.org/post/2024/20240320-colaboracionquest/)
+Find the slides [here.](https://docs.google.com/presentation/d/1MrY5u30DEXbpqI1c9M7dBNantMRjfSJhXsdYu0HfbiI/edit?usp=sharing)
