@@ -1,0 +1,12 @@
+---
+authors: [Jesica Formoso]
+date: "2024-26-10"
+title: NASA TOPS-T Reproducibly Analyzing Wildfire, Drought, and Flood Risk with NASA Earthdata Cloud
+image: nasa.jpg
+---
+
+I am part of the development team for [ScienceCore: Climate Risk](https://github.com/ScienceCore/climaterisk), a learning module under [NASA's Transform to Open Science (TOPS) initiative](https://science.nasa.gov/open-science/tops/). This project aims to teach participants how to identify, analyze, visualize, and report on climate data available through the **NASA Earthdata Cloud** to assess risks related to wildfires, droughts, and floods in the context of climate change.
+
+In collaboration with [MetaDocencia]() and [2i2c](), we are creating open, reproducible, and accessible materials in both English and Spanish. The module leverages open-source tools to promote open science practices and cloud-based intensive computing. It empowers learners to analyze regional and global environmental risks using open science-based, reproducible workflows.
+
+The materials can be found in this [GitHub repository](https://github.com/ScienceCore/climaterisk) and this [Jupyter book](https://sciencecore.github.io/climaterisk/).  
