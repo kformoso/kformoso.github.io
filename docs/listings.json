@@ -2,10 +2,10 @@
   {
     "listing": "/talks.html",
     "items": [
-      "/talks/nasa-2i2c-2024/index.html",
       "/talks/quarto-rladiesba-2024/index.html",
       "/talks/ttt-2024/index.html",
       "/talks/alta-ca-2024/index.html",
+      "/talks/nasa-2i2c-2024/index.html",
       "/talks/elife-2024/index.html",
       "/talks/ciencia-datos-psico-2023/index.html",
       "/talks/code-for-all-2023/index.html",
