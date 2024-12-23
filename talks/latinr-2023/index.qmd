@@ -1,6 +1,6 @@
 ---
 authors: [Patricia Loto, Irene Vazano, Jesica Formoso]
-date: "2024-04-20"
+date: "2023-12-11"
 title: A Shiny app for mapping open-science communities, organizations & events in Latin America (Lightning Talk)
 image: latinr.jpg
 ---

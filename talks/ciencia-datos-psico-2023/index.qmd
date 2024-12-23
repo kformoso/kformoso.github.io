@@ -1,6 +1,6 @@
 ---
 authors: [Jesica Formoso]
-date: "2024-04-20"
+date: "2023-11-20"
 title: Pre-Congress Workshop - "Data Science for Psychologist (with R and RStudio)"
 image: cien_datos.jpg
 ---

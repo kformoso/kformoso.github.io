@@ -1,6 +1,6 @@
 ---
 authors: [Jesica Formoso]
-date: "2024-04-06"
+date: "2024-06-04"
 title: Insights and Innovations in Virtual Training | DUTC/NASA TOPS Talks
 image: dutc.png
 ---

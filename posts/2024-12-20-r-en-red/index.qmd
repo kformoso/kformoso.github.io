@@ -1,5 +1,5 @@
 ---
-title: "🌟 R en Red: ARcenso, Opportunities, and Community 🌟"
+title: "R en Red: ARcenso, Opportunities, and Community"
 author: "Jesica Formoso"
 date: "2024-12-20"
 slug: r-en-red-2024
