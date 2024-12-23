@@ -1,0 +1,34 @@
+---
+title: "🌟 R en Red: ARcenso, Opportunities, and Community 🌟"
+author: "Jesica Formoso"
+date: "2024-12-20"
+slug: r-en-red-2024
+categories:
+  - Talk
+  - R
+  - Open-source
+tags:
+  - R
+  - Talk
+  - Open-source
+description: ""
+type: post
+---
+
+Last week, I had the privilege of co-organizing a talk as part of the [Buenos Aires chapter of R-Ladies](), in collaboration with [R en Buenos Aires](https://www.linkedin.com/company/r-en-buenos-aires/posts/?feedView=all). Together with [María Nanton](https://www.linkedin.com/in/mar%C3%ADa-cristina-n-920170126/) and [Betsy Cohen](https://www.linkedin.com/in/betsabe1984/), we showcased some incredible events and working groups we've been part of that not only offer formative experiences but also encourage active participation and community-building.
+
+Our goal was to inspire members of our community to apply and get involved in initiatives that promote personal and professional growth—and help strengthen our collective network. Many attendees shared that they were unfamiliar with some of the conferences and events we presented or didn’t realize they could apply for financial support or travel grants to participate. This realization was empowering for many, as it helped them see these opportunities as something within their reach.
+
+The diversity in the room was amazing—we connected with people working in areas like census data, health data, and academic research. There were attendees who were just starting their journey with R, as well as seasoned users eager to share their experiences. The feedback we received was overwhelmingly positive, and the enthusiasm in the room reinforced the importance of creating spaces like this.
+
+![](../../images/r-en-red.png)
+
+We wrapped up the evening with an end-of-year toast and a networking session, which allowed us to continue building connections in a relaxed and celebratory atmosphere. 🍾
+
+If you missed the talk, you can check out the slides here: [Slides](https://github.com/RLadies-BA/2024-12-20-welcome)
+
+💜 Stay connected with the R-Ladies Buenos Aires network:
+🐦 Twitter: @RLadiesBA
+🌐 Website: https://rladiesba.netlify.app/
+
+Let’s continue growing together, discovering opportunities, and making the R community an even more inclusive and enriching space! 💪💜
