@@ -14,7 +14,7 @@ about:
       href: https://orcid.org/my-orcid?orcid=0000-0003-3062-4036
     - icon: twitter
       text: twitter
-      href: https://twitter.com/allison_horst
+      href: https://twitter.com/JesiFormoso/
 ---
 
 Hi everyone, I’m Jesica! I'm a Data Scientist, a Tenured Researcher at the National Scientific and Technical Research Council ([CONICET](https://www.conicet.gov.ar/?lan=en)) in Argentina, and the Impact Measurement Coordinator at [MetaDocencia](https://www.metadocencia.org/), an organization that aims to promote Open Science in Latin America. Since 2019, I have been teaching and developing curricula for courses in statistics, programming, data science, and data visualization at the University of Buenos Aires (UBA), National Agricultural Technology Institute (INTA), and the University Institute of the Italian Hospital of Buenos Aires. I also serve as an advisor for research projects within Doctoral and Masters graduate programs in Psychology, Neuropsychology and Neuroscience at the University of Buenos Aires, the Latin American Faculty of Social Sciences (FLACSO), and the National University of Flores (UFLO), among others.As an organizer of [R-Ladies Buenos Aires](https://rladiesba.netlify.app/) I work to foster diversity and inclusion in the tech and data science communities.
