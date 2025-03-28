@@ -1,59 +1,48 @@
 ---
-title: "I attended Khipu 2025 🖥🎉️"
+title: "Posit::Conf(2024): R, Community, and Learning""
 author: "Jesica Formoso"
-date: "2025-03-28"
-slug: khipu-2025
+date: "2024-09-18"
+slug: posit-conf-2024
 categories:
   - Conference
-  - Artificial Intelligence
+  - R
   - Open-source
 tags:
-  - Artificial Intelligence
+  - R
   - Conference
   - Open-source
-  - Latin America
 description: ""
 type: post
 ---
 
-Earlier this month, I had the chance to attend Khipu, the largest Artificial Intelligence (AI) and Machine Learning gathering in Latin America. 
+## Hi, Posit::conf(2024)!
 
-![](../../images/khipu-2025.png)
+This August, I had the incredible opportunity to attend [Posit::conf(2024)](https://posit.co/conference/) in Seattle, thanks to the **Opportunity Scholarship**. From August 12 to 14, I joined a group of R enthusiasts, data scientists, and educators to learn, explore the latest advancements in data science, and connect with others in the R community.
 
-This year marked the fourth edition of Khipu—and the first to take place outside of Uruguay. It was held in Santiago, Chile, bringing together hundreds of researchers, professionals, and students from across the region and beyond.
+## Why I Attended
 
-![](../../images/mapa-asistentes.jpeg)
+As a passionate R user and active member of the R community, attending Posit::Conf(2024) was a dream come true. I’ve spent years organizing events for [R-Ladies Buenos Aires](https://rladiesba.netlify.app/), teaching R in undergraduate and graduate programs, and creating Spanish-language learning materials. This conference offered the chance to deepen my skills, learn about the latest tools, and meet others who share my enthusiasm for all things R.
 
-Khipu is more than just a conference: it’s a space for learning, sharing, and building community around AI in Latin America. The program is thoughtfully designed to offer content for a wide range of audiences. Talks follow a progressive structure: early sessions are more general and accessible, yet rigorous and engaging, and always led by experts.
+## Workshops and events
 
-For example, some of the opening lectures I really enjoyed were **ML & DL Foundamentals I** by [Jorge Perez](https://www.youtube.com/@JorgePerez-pt3qg), **ML & DL Foundamentals II** by [Alfredo Canziani](https://atcold.github.io/) and **Natural Language Processing Fundamentals** by [Isabelle Augenstein](https://isabelleaugenstein.github.io/). As the week went on, content became increasingly technical and specialized. On the second day, [Petar Veličković](https://petar-v.com/) gave a fantastic lecture on **Geometric Deep Learning**. By Thursday, we had parallel sessions on cybersecurity, ML in economics, computer vision, AI and human rights, among others. This structure made the event a rich learning experience—whether you were just starting out or already deep in the field.
+The workshops at Posit Conf were a major highlight. I attended the **Build a Dashboard with Quarto** workshop, led by the amazing [Mine Çetinkaya-Rundel](https://mine-cr.com/), a developer educator at Posit, PBC. Mine’s teaching style is incredible, making the process of creating Quarto dashboards approachable and fun. If you’re curious about the workshop, check out the materials [here](https://posit-conf-2024.github.io/quarto-dashboards/).
 
-The conference also offered **tutorials** on various topics and at different difficulty levels. Whether you were interested in machine learning, natural language processing, AI ethics, or technical toolkits, there was a hands-on session for you. Materials were carefully prepared, including excellent, very well documented [Jupyter notebooks](https://github.com/khipu-ai/practicals-2025), so you could take them home and continue learning on your own. There were also poster sessions, where attendees could present their work, share ideas, get feedback, and showcase projects in a friendly environment.
+Another standout moment was participating in the **Tidyverse Developer Day.** This event was an introduction to contributing to the Tidyverse ecosystem and showcased the supportive spirit of the community. Everyone was eager to help, share their thoughts, and encourage new contributors. You can read more about it [here](https://www.tidyverse.org/blog/2024/04/tdd-2024/).
 
-One of the things that stood out the most to me was the welcoming and warm atmosphere. It's a great place to meet people who are working in AI across different sectors, to explore collaborations, and to feel part of a growing Latin American AI community.
+The conference was filled with inspiring talks and sessions, many of which focused on Quarto. These sessions directly connected to my professional work, and I’ve already shared some of what I learned in a [workshop with R-Ladies Buenos Aires](https://jformoso.github.io/quarto-rladiesBA/). If you know Spanish, you can check it out [here](https://www.youtube.com/watch?v=puykTjJ43Xs). We’re even planning a follow-up workshop next year to explore Quarto dashboards in more depth!
 
-## ✍️ Want to attend the next event?
+## Building Community
 
-You might be wondering how to attend the next Khipu. Unlike many conferences, you don’t simply register and pay a fee. Instead, you apply, sharing your background, motivation, and what you hope to contribute or learn. If selected, you can also apply for financial support to cover travel and accommodation. The goal is to make participation accessible and remove financial barriers.
+Posit Conf was not just about learning—it was also about connecting. I attended the Opportunity Scholar Lunch, where I met fellow scholars and Posit team members, including Hadley Wickham, Hannah Frick, Carlos Scheidegger, and the wonderful Kaia Cooper. The lunch was casual, fun, and an excellent chance to get to know each other a little bit.
 
-What makes a good application? I’m not entirely sure—maybe I should’ve asked someone from the organizing committee—but I believe they value your potential to share what you learn and act as a multiplier in your community. If you're involved in teaching or in communities of practice, that’s probably a plus. If you're working on projects that require AI and could benefit from your attendance, mention them! Include links to relevant resources or repositories.
+Another memorable moment was meeting members of the [rainbowR community](https://rainbowr.org/), which supports LGBTQ+ individuals in the R community. Sharing stories and experiences over lunch with this group was both heartwarming and inspiring.
 
-## 🌐 Language access
+The atmosphere at Posit::conf(2024) was everything I hoped for. I met R enthusiasts from all over the world, spanning diverse disciplines, from academia to industry. It was a reminder of the incredible reach and versatility of the R community.
 
-A significant limitation: everything is in English. This year, the organizing team added automatic captioning, which helps, but it’s still not an event I would recommend to someone with no English at all. That said, the team is clearly aware of this barrier. Khipu is made for Latin Americans, and there’s a genuine interest in making it more accessible for non-English speakers in the future.
+## Resources
 
+If you’re curious about the workshops, the materials are available [here](https://posit-conf-2024.github.io/workshops/). I highly recommend exploring them—they’re packed with useful information and practical tools that are worth checking out!
 
-##  What I took with me
-
-I learned a lot, met incredible people, drank way too much coffee and ate way too much sugar. But most of all, what stayed with me was the human dimension: the limitations of current technologies, and how people reflect critically on them and work to overcome them.
-
-What happens when you're working with sensitive, private data that can't be shared with large models on external platforms, and your institution has limited infrastructure and funding?  Projects like the ones presented by Leonardo Lombardi (QuantIT), Aiala Rosá (Universidad de la República), Victor Mireless (UNAM) and Juan Reutter (PUC, Chile) on [AI and Human Rights](https://www.youtube.com/watch?v=BLt2egXElBc&ab_channel=KHIPUAI) are a clear example. 
-
-What if you need a model whose decisions are understandable and accountable—like in a medical setting, where both doctor and patient should be able to understand the logic behind a diagnosis? Talks like the one by [René Vidal](http://vision.jhu.edu/rvidal.html) (University of Pennsylvania) on explainability  touched on that. 
-
-Other sessions explored critical topics such as bias and AI governance, highlighting the importance of fairness and transparency in model development and deployment. As part of the closing event, [Catherine D’Ignazio](https://www.media.mit.edu/people/dignazio/overview/) (MIT) and [Ivana Feldgeber](https://datagenero.org/equipo/ivana-feldfeber/) (DataGenero) delivered a powerful session on gender equity and women in AI.
-
-Basically, the reminder that AI, like any technology, is not neutral. It reflects the values, priorities, and perspectives of those who build it. That’s why spaces like Khipu matter: to ensure Latin America is not just a consumer of AI, but also a key player in shaping its future.
+If you belong to an underrepresented group, don’t miss the chance to attend [Posit::conf(2025)](https://posit.co/conference/). Be sure to check out the Opportunity Scholarship—it could be your gateway to an incredible experience!
 
 
-You can watch most of the talks on [Khipu's youtube channel](https://www.youtube.com/@khipu_ai)

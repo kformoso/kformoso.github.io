@@ -1,0 +1,59 @@
+---
+title: "My Experience at Khipu 2025: Community, Learning, and AI Challenges️"
+author: "Jesica Formoso"
+date: "2025-03-28"
+slug: khipu-2025
+categories:
+  - Conference
+  - Artificial Intelligence
+  - Open-source
+tags:
+  - Artificial Intelligence
+  - Conference
+  - Open-source
+  - Latin America
+description: ""
+type: post
+---
+
+Earlier this month, I had the chance to attend Khipu, the largest Artificial Intelligence (AI) and Machine Learning gathering in Latin America. 
+
+![](../../images/khipu-2025.png)
+
+This year marked the fourth edition of Khipu—and the first to take place outside of Uruguay. It was held in Santiago, Chile, bringing together hundreds of researchers, professionals, and students from across the region and beyond.
+
+![](../../images/mapa-asistentes.jpeg)
+
+Khipu is more than just a conference: it’s a space for learning, sharing, and building community around AI in Latin America. The program is thoughtfully designed to offer content for a wide range of audiences. Talks follow a progressive structure: early sessions are more general and accessible, yet rigorous and engaging, and always led by experts.
+
+For example, some of the opening lectures I really enjoyed were **ML & DL Foundamentals I** by [Jorge Perez](https://www.youtube.com/@JorgePerez-pt3qg), **ML & DL Foundamentals II** by [Alfredo Canziani](https://atcold.github.io/) and **Natural Language Processing Fundamentals** by [Isabelle Augenstein](https://isabelleaugenstein.github.io/). As the week went on, content became increasingly technical and specialized. On the second day, [Petar Veličković](https://petar-v.com/) gave a fantastic lecture on **Geometric Deep Learning**. By Thursday, we had parallel sessions on cybersecurity, ML in economics, computer vision, AI and human rights, among others. 
+
+The conference also offered tutorials at different difficulty levels on various topics such as in machine learning, natural language processing, AI ethics, or technical toolkits. Materials were carefully prepared, including well documented [Jupyter notebooks](https://github.com/khipu-ai/practicals-2025) you could take home and continue learning on your own. There were also poster sessions, where attendees could present their work and get feedback in a friendly environment.
+
+One of the things that stood out the most to me was the welcoming and warm atmosphere. It's a great place to meet people who are working in AI across different sectors, to explore collaborations, and to feel part of a growing Latin American AI community.
+
+## ✍️ Want to attend the next event?
+
+You might be wondering how to attend the next Khipu. Unlike many conferences, you don’t simply register and pay a fee. Instead, you apply, sharing your background, motivation, and what you hope to contribute or learn. If selected, you can also apply for financial support to cover travel and accommodation. The goal is to make participation accessible and remove financial barriers.
+
+What makes a good application? I’m not entirely sure—maybe I should’ve asked someone from the organizing committee—but I believe they value your potential to share what you learn and act as a multiplier in your community. If you're involved in teaching or in communities of practice, that’s probably a plus. If you're working on projects that require AI and could benefit from your attendance, mention them! Include links to relevant resources or repositories.
+
+## 🌐 Language access
+
+A significant limitation: everything is in English. This year, the organizing team added automatic captioning, which helps, but it’s still not an event I would recommend to someone with no English at all. That said, the team is clearly aware of this barrier. Khipu is made for Latin Americans, and there’s a genuine interest in making it more accessible for non-English speakers in the future.
+
+
+##  What I took with me
+
+I learned a lot, met incredible people, drank way too much coffee and ate way too much sugar. But most of all, what stayed with me was the human dimension: the limitations of current technologies, and how people reflect critically on them and work to overcome them.
+
+What happens when you're working with sensitive, private data that can't be shared with large models on external platforms, and your institution has limited infrastructure and funding?  Projects like the ones presented by Leonardo Lombardi (QuantIT), Aiala Rosá (Universidad de la República), Victor Mireless (UNAM) and Juan Reutter (PUC, Chile) on [AI and Human Rights](https://www.youtube.com/watch?v=BLt2egXElBc&ab_channel=KHIPUAI) are a clear example. 
+
+What if you need a model whose decisions are understandable and accountable—like in a medical setting, where both doctor and patient should be able to understand the logic behind a diagnosis? Talks like the one by [René Vidal](http://vision.jhu.edu/rvidal.html) (University of Pennsylvania) on explainability  touched on that. 
+
+Other sessions explored critical topics such as bias and AI governance, highlighting the importance of fairness and transparency in model development and deployment. As part of the closing event, [Catherine D’Ignazio](https://www.media.mit.edu/people/dignazio/overview/) (MIT) and [Ivana Feldgeber](https://datagenero.org/equipo/ivana-feldfeber/) (DataGenero) delivered a powerful session on gender equity and women in AI.
+
+Basically, a reminder that AI, like any technology, is not neutral. It reflects the values, priorities, and perspectives of those who build it. That’s why spaces like Khipu matter: to ensure Latin America is not just a consumer of AI, but also a key player in shaping its future.
+
+
+You can watch most of the talks on [Khipu's youtube channel](https://www.youtube.com/@khipu_ai)
