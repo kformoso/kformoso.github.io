@@ -5,15 +5,15 @@
       "/talks/quarto-rladiesba-2024/index.html",
       "/talks/ttt-2024/index.html",
       "/talks/alta-ca-2024/index.html",
+      "/talks/dont-use-this-code-2024/index.html",
       "/talks/nasa-2i2c-2024/index.html",
       "/talks/elife-2024/index.html",
-      "/talks/ciencia-datos-psico-2023/index.html",
-      "/talks/code-for-all-2023/index.html",
-      "/talks/latinr-2023/index.html",
       "/talks/opensesame-2024/index.html",
       "/talks/quest-2024/index.html",
-      "/talks/dont-use-this-code-2024/index.html",
       "/talks/ucla-2023/index.html",
+      "/talks/latinr-2023/index.html",
+      "/talks/ciencia-datos-psico-2023/index.html",
+      "/talks/code-for-all-2023/index.html",
       "/talks/csv-conf-2023/index.html",
       "/talks/how-to-teach-programing-2023/index.html",
       "/talks/introduction-to-r-2023/index.html",
@@ -24,8 +24,9 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/2024-12-20-r-en-red/index.html",
       "/posts/2024-09-18-posit-conf-2024/index.html",
+      "/posts/2024-12-20-r-en-red/index.html",
+      "/posts/2025-03-28-khipu2025/index.html",
       "/posts/2023-08-18-disc-unconf-2023/index.html"
     ]
   }
