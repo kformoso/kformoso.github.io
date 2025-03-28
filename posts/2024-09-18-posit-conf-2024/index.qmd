@@ -1,5 +1,5 @@
 ---
-title: "Posit::Conf(2024): R, Community, and Learning""
+title: "Posit::Conf(2024): R, Community, and Learning"
 author: "Jesica Formoso"
 date: "2024-09-18"
 slug: posit-conf-2024
