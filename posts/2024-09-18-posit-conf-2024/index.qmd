@@ -32,7 +32,7 @@ The conference also offered **tutorials** on various topics and at different dif
 
 One of the things that stood out the most to me was the welcoming and warm atmosphere. It's a great place to meet people who are working in AI across different sectors, to explore collaborations, and to feel part of a growing Latin American AI community.
 
-## ✍️ Want to attend next year?
+## ✍️ Want to attend the next event?
 
 You might be wondering how to attend the next Khipu. Unlike many conferences, you don’t simply register and pay a fee. Instead, you apply, sharing your background, motivation, and what you hope to contribute or learn. If selected, you can also apply for financial support to cover travel and accommodation. The goal is to make participation accessible and remove financial barriers.
 
@@ -45,7 +45,7 @@ A significant limitation: everything is in English. This year, the organizing te
 
 ##  What I took with me
 
-I learned a lot. I met incredible people. I drank too much coffee and ate too much sugar. But most of all, what stayed with me was the human dimension: the limitations of current technologies, and the ways people think critically about them.
+I learned a lot, met incredible people, drank way too much coffee and ate way too much sugar. But most of all, what stayed with me was the human dimension: the limitations of current technologies, and how people reflect critically on them and work to overcome them.
 
 What happens when you're working with sensitive, private data that can't be shared with large models on external platforms—and your institution has limited infrastructure and funding?  Projects like the ones presented by Leonardo Lombardi (QuantIT), Aiala Rosá (Universidad de la República), Victor Mireless (UNAM) and Juan Reutter (PUC, Chile) on [AI and Human Rights](https://www.youtube.com/watch?v=BLt2egXElBc&ab_channel=KHIPUAI) is a clear example. 
 
