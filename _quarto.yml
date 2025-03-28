@@ -36,16 +36,3 @@ format:
 
 
 
-
-babelquarto:
-  languagecodes:
-  - name: es
-    text: "Version in es"
-  - name: en
-    text: "Version in en"
-  mainlanguage: 'en'
-  languages: ['es']
-title-es: title in es
-description-es: description in es
-author-es: author in es
-lang: en
