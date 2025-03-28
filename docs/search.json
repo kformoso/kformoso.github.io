@@ -67,7 +67,7 @@
     "href": "posts.html",
     "title": "Blog posts",
     "section": "",
-    "text": "I attended Khipu 2025 🖥🎉️\n\n\n\n\n\n\nConference\n\n\nArtificial Intelligence\n\n\nOpen-source\n\n\n\n\n\n\n\n\n\nMar 28, 2025\n\n\nJesica Formoso\n\n\n\n\n\n\n\n\n\n\n\n\nR en Red: ARcenso, Opportunities, and Community\n\n\n\n\n\n\nTalk\n\n\nR\n\n\nOpen-source\n\n\n\n\n\n\n\n\n\nDec 20, 2024\n\n\nJesica Formoso\n\n\n\n\n\n\n\n\n\n\n\n\nR en Red: ARcenso, Opportunities, and Community\n\n\n\n\n\n\nTalk\n\n\nR\n\n\nOpen-source\n\n\n\n\n\n\n\n\n\nDec 20, 2024\n\n\nJesica Formoso\n\n\n\n\n\n\n\n\n\n\n\n\nWhat I learned at NumFocus DISC Unconf 2023\n\n\n\n\n\n\nConference\n\n\nDiversity & Inclusion\n\n\nOpen-source\n\n\n\n\n\n\n\n\n\nAug 18, 2023\n\n\nJesica Formoso\n\n\n\n\n\n\nNo matching items"
+    "text": "My Experience at Khipu 2025: Community, Learning, and AI Challenges️\n\n\n\n\n\n\nConference\n\n\nArtificial Intelligence\n\n\nOpen-source\n\n\n\n\n\n\n\n\n\nMar 28, 2025\n\n\nJesica Formoso\n\n\n\n\n\n\n\n\n\n\n\n\nR en Red: ARcenso, Opportunities, and Community\n\n\n\n\n\n\nTalk\n\n\nR\n\n\nOpen-source\n\n\n\n\n\n\n\n\n\nDec 20, 2024\n\n\nJesica Formoso\n\n\n\n\n\n\n\n\n\n\n\n\nPosit::Conf(2024): R, Community, and Learning\n\n\n\n\n\n\nConference\n\n\nR\n\n\nOpen-source\n\n\n\n\n\n\n\n\n\nSep 18, 2024\n\n\nJesica Formoso\n\n\n\n\n\n\n\n\n\n\n\n\nWhat I learned at NumFocus DISC Unconf 2023\n\n\n\n\n\n\nConference\n\n\nDiversity & Inclusion\n\n\nOpen-source\n\n\n\n\n\n\n\n\n\nAug 18, 2023\n\n\nJesica Formoso\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2024-12-20-r-en-red/index.html",
@@ -177,37 +177,72 @@
   {
     "objectID": "posts/2024-09-18-posit-conf-2024/index.html",
     "href": "posts/2024-09-18-posit-conf-2024/index.html",
-    "title": "I attended Khipu 2025 🖥🎉️",
+    "title": "Posit::Conf(2024): R, Community, and Learning",
     "section": "",
-    "text": "Earlier this month, I had the chance to attend Khipu, the largest Artificial Intelligence (AI) and Machine Learning gathering in Latin America.\nThis year marked the fourth edition of Khipu—and the first to take place outside of Uruguay. It was held in Santiago, Chile, bringing together hundreds of researchers, professionals, and students from across the region and beyond.\nKhipu is more than just a conference: it’s a space for learning, sharing, and building community around AI in Latin America. The program is thoughtfully designed to offer content for a wide range of audiences. Talks follow a progressive structure: early sessions are more general and accessible, yet rigorous and engaging, and always led by experts.\nFor example, some of the opening lectures I really enjoyed were ML & DL Foundamentals I by Jorge Perez, ML & DL Foundamentals II by Alfredo Canziani and Natural Language Processing Fundamentals by Isabelle Augenstein. As the week went on, content became increasingly technical and specialized. On the second day, Petar Veličković gave a fantastic lecture on Geometric Deep Learning. By Thursday, we had parallel sessions on cybersecurity, ML in economics, computer vision, AI and human rights, among others. This structure made the event a rich learning experience—whether you were just starting out or already deep in the field.\nThe conference also offered tutorials on various topics and at different difficulty levels. Whether you were interested in machine learning, natural language processing, AI ethics, or technical toolkits, there was a hands-on session for you. Materials were carefully prepared, including excellent, very well documented Jupyter notebooks, so you could take them home and continue learning on your own.\nAnother highlight was the poster sessions, where attendees could present their work. It’s a fantastic way to share ideas, get feedback, and showcase your projects in a friendly environment.\nOne of the things that stood out the most to me was the welcoming and warm atmosphere. It’s a great place to meet people who are working in AI across different sectors, to explore collaborations, and to feel part of a growing Latin American AI community."
+    "text": "This August, I had the incredible opportunity to attend Posit::conf(2024) in Seattle, thanks to the Opportunity Scholarship. From August 12 to 14, I joined a group of R enthusiasts, data scientists, and educators to learn, explore the latest advancements in data science, and connect with others in the R community."
   },
   {
-    "objectID": "posts/2024-09-18-posit-conf-2024/index.html#want-to-attend-next-year",
-    "href": "posts/2024-09-18-posit-conf-2024/index.html#want-to-attend-next-year",
-    "title": "I attended Khipu 2025 🖥🎉️",
-    "section": "✍️ Want to attend next year?",
-    "text": "✍️ Want to attend next year?\nYou might be wondering how to attend the next Khipu. Unlike many conferences, you don’t simply register and pay a fee. Instead, you apply, sharing your background, motivation, and what you hope to contribute or learn. If selected, you can also apply for financial support to cover travel and accommodation. The goal is to make participation accessible and remove financial barriers.\nWhat makes a good application? I’m not entirely sure—maybe I should’ve asked someone from the organizing committee—but I believe they value your potential to share what you learn and act as a multiplier in your community. If you’re involved in teaching or in communities of practice, that’s probably a plus. If you’re working on projects that require AI and could benefit from your attendance, mention them! Include links to relevant resources or repositories."
+    "objectID": "posts/2024-09-18-posit-conf-2024/index.html#hi-positconf2024",
+    "href": "posts/2024-09-18-posit-conf-2024/index.html#hi-positconf2024",
+    "title": "Posit::Conf(2024): R, Community, and Learning",
+    "section": "",
+    "text": "This August, I had the incredible opportunity to attend Posit::conf(2024) in Seattle, thanks to the Opportunity Scholarship. From August 12 to 14, I joined a group of R enthusiasts, data scientists, and educators to learn, explore the latest advancements in data science, and connect with others in the R community."
   },
   {
-    "objectID": "posts/2024-09-18-posit-conf-2024/index.html#language-access",
-    "href": "posts/2024-09-18-posit-conf-2024/index.html#language-access",
-    "title": "I attended Khipu 2025 🖥🎉️",
+    "objectID": "posts/2024-09-18-posit-conf-2024/index.html#why-i-attended",
+    "href": "posts/2024-09-18-posit-conf-2024/index.html#why-i-attended",
+    "title": "Posit::Conf(2024): R, Community, and Learning",
+    "section": "Why I Attended",
+    "text": "Why I Attended\nAs a passionate R user and active member of the R community, attending Posit::Conf(2024) was a dream come true. I’ve spent years organizing events for R-Ladies Buenos Aires, teaching R in undergraduate and graduate programs, and creating Spanish-language learning materials. This conference offered the chance to deepen my skills, learn about the latest tools, and meet others who share my enthusiasm for all things R."
+  },
+  {
+    "objectID": "posts/2024-09-18-posit-conf-2024/index.html#workshops-and-events",
+    "href": "posts/2024-09-18-posit-conf-2024/index.html#workshops-and-events",
+    "title": "Posit::Conf(2024): R, Community, and Learning",
+    "section": "Workshops and events",
+    "text": "Workshops and events\nThe workshops at Posit Conf were a major highlight. I attended the Build a Dashboard with Quarto workshop, led by the amazing Mine Çetinkaya-Rundel, a developer educator at Posit, PBC. Mine’s teaching style is incredible, making the process of creating Quarto dashboards approachable and fun. If you’re curious about the workshop, check out the materials here.\nAnother standout moment was participating in the Tidyverse Developer Day. This event was an introduction to contributing to the Tidyverse ecosystem and showcased the supportive spirit of the community. Everyone was eager to help, share their thoughts, and encourage new contributors. You can read more about it here.\nThe conference was filled with inspiring talks and sessions, many of which focused on Quarto. These sessions directly connected to my professional work, and I’ve already shared some of what I learned in a workshop with R-Ladies Buenos Aires. If you know Spanish, you can check it out here. We’re even planning a follow-up workshop next year to explore Quarto dashboards in more depth!"
+  },
+  {
+    "objectID": "posts/2024-09-18-posit-conf-2024/index.html#building-community",
+    "href": "posts/2024-09-18-posit-conf-2024/index.html#building-community",
+    "title": "Posit::Conf(2024): R, Community, and Learning",
+    "section": "Building Community",
+    "text": "Building Community\nPosit Conf was not just about learning—it was also about connecting. I attended the Opportunity Scholar Lunch, where I met fellow scholars and Posit team members, including Hadley Wickham, Hannah Frick, Carlos Scheidegger, and the wonderful Kaia Cooper. The lunch was casual, fun, and an excellent chance to get to know each other a little bit.\nAnother memorable moment was meeting members of the rainbowR community, which supports LGBTQ+ individuals in the R community. Sharing stories and experiences over lunch with this group was both heartwarming and inspiring.\nThe atmosphere at Posit::conf(2024) was everything I hoped for. I met R enthusiasts from all over the world, spanning diverse disciplines, from academia to industry. It was a reminder of the incredible reach and versatility of the R community."
+  },
+  {
+    "objectID": "posts/2024-09-18-posit-conf-2024/index.html#resources",
+    "href": "posts/2024-09-18-posit-conf-2024/index.html#resources",
+    "title": "Posit::Conf(2024): R, Community, and Learning",
+    "section": "Resources",
+    "text": "Resources\nIf you’re curious about the workshops, the materials are available here. I highly recommend exploring them—they’re packed with useful information and practical tools that are worth checking out!\nIf you belong to an underrepresented group, don’t miss the chance to attend Posit::conf(2025). Be sure to check out the Opportunity Scholarship—it could be your gateway to an incredible experience!"
+  },
+  {
+    "objectID": "posts/2025-03-28-khipu-2025/index.html",
+    "href": "posts/2025-03-28-khipu-2025/index.html",
+    "title": "My Experience at Khipu 2025: Community, Learning, and AI Challenges️",
+    "section": "",
+    "text": "Earlier this month, I had the chance to attend Khipu, the largest Artificial Intelligence (AI) and Machine Learning gathering in Latin America.\nThis year marked the fourth edition of Khipu—and the first to take place outside of Uruguay. It was held in Santiago, Chile, bringing together hundreds of researchers, professionals, and students from across the region and beyond.\nKhipu is more than just a conference: it’s a space for learning, sharing, and building community around AI in Latin America. The program is thoughtfully designed to offer content for a wide range of audiences. Talks follow a progressive structure: early sessions are more general and accessible, yet rigorous and engaging, and always led by experts.\nFor example, some of the opening lectures I really enjoyed were ML & DL Foundamentals I by Jorge Perez, ML & DL Foundamentals II by Alfredo Canziani and Natural Language Processing Fundamentals by Isabelle Augenstein. As the week went on, content became increasingly technical and specialized. On the second day, Petar Veličković gave a fantastic lecture on Geometric Deep Learning. By Thursday, we had parallel sessions on cybersecurity, ML in economics, computer vision, AI and human rights, among others.\nThe conference also offered tutorials at different difficulty levels on various topics such as in machine learning, natural language processing, AI ethics, or technical toolkits. Materials were carefully prepared, including well documented Jupyter notebooks you could take home and continue learning on your own. There were also poster sessions, where attendees could present their work and get feedback in a friendly environment.\nOne of the things that stood out the most to me was the welcoming and warm atmosphere. It’s a great place to meet people who are working in AI across different sectors, to explore collaborations, and to feel part of a growing Latin American AI community."
+  },
+  {
+    "objectID": "posts/2025-03-28-khipu-2025/index.html#want-to-attend-the-next-event",
+    "href": "posts/2025-03-28-khipu-2025/index.html#want-to-attend-the-next-event",
+    "title": "My Experience at Khipu 2025: Community, Learning, and AI Challenges️",
+    "section": "✍️ Want to attend the next event?",
+    "text": "✍️ Want to attend the next event?\nYou might be wondering how to attend the next Khipu. Unlike many conferences, you don’t simply register and pay a fee. Instead, you apply, sharing your background, motivation, and what you hope to contribute or learn. If selected, you can also apply for financial support to cover travel and accommodation. The goal is to make participation accessible and remove financial barriers.\nWhat makes a good application? I’m not entirely sure—maybe I should’ve asked someone from the organizing committee—but I believe they value your potential to share what you learn and act as a multiplier in your community. If you’re involved in teaching or in communities of practice, that’s probably a plus. If you’re working on projects that require AI and could benefit from your attendance, mention them! Include links to relevant resources or repositories."
+  },
+  {
+    "objectID": "posts/2025-03-28-khipu-2025/index.html#language-access",
+    "href": "posts/2025-03-28-khipu-2025/index.html#language-access",
+    "title": "My Experience at Khipu 2025: Community, Learning, and AI Challenges️",
     "section": "🌐 Language access",
     "text": "🌐 Language access\nA significant limitation: everything is in English. This year, the organizing team added automatic captioning, which helps, but it’s still not an event I would recommend to someone with no English at all. That said, the team is clearly aware of this barrier. Khipu is made for Latin Americans, and there’s a genuine interest in making it more accessible for non-English speakers in the future."
   },
   {
-    "objectID": "posts/2024-09-18-posit-conf-2024/index.html#what-i-took-with-me",
-    "href": "posts/2024-09-18-posit-conf-2024/index.html#what-i-took-with-me",
-    "title": "I attended Khipu 2025 🖥🎉️",
+    "objectID": "posts/2025-03-28-khipu-2025/index.html#what-i-took-with-me",
+    "href": "posts/2025-03-28-khipu-2025/index.html#what-i-took-with-me",
+    "title": "My Experience at Khipu 2025: Community, Learning, and AI Challenges️",
     "section": "What I took with me",
-    "text": "What I took with me\nI learned a lot. I met incredible people. I drank too much coffee and ate too much sugar. But most of all, what stayed with me was the human dimension: the limitations of current technologies, and the ways people think critically about them.\nWhat happens when you’re working with sensitive, private data that can’t be shared with large models on external platforms—and your institution has limited infrastructure and funding? Projects like the ones presented by Leonardo Lombardi (QuantIT), Aiala Rosá (Universidad de la República), Victor Mireless (UNAM) and Juan Reutter (PUC, Chile) on AI and Human Rights is a clear example.\nWhat if you need a model whose decisions are understandable and accountable—like in a medical setting, where both doctor and patient should be able to understand the logic behind a diagnosis? Talks like the one by René Vidal (University of Pennsylvania) on explainability touched on that.\nOther sessions explored critical topics such as bias and AI governance, highlighting the importance of fairness and transparency in model development and deployment. As part of the closing event, Catherine D’Ignazio (MIT) and Ivana Feldgeber (DataGenero) delivered a powerful session on gender equity and women in AI, reminding us that inclusion must be central to the future of artificial intelligence.\nAnd beyond all this: the reminder that AI, like any technology, is not neutral. It reflects the values, priorities, and perspectives of those who build it. Paula Dornhofer (UNICAMP, Brazil) talked about this and posit the question: Is AI the new Carabela?\nThat’s why spaces like Khipu matter: to ensure Latin America is not just a consumer of AI, but also a key player in shaping its future.\nYou can watch most of the talks on Khipu’s youtube channel"
-  },
-  {
-    "objectID": "posts/2025-03-28-khipu2025/index.html",
-    "href": "posts/2025-03-28-khipu2025/index.html",
-    "title": "R en Red: ARcenso, Opportunities, and Community",
-    "section": "",
-    "text": "Last week, I had the privilege of co-organizing a talk as part of the Buenos Aires chapter of R-Ladies, in collaboration with R en Buenos Aires. Together with María Nanton and Betsy Cohen, we showcased some incredible events and working groups we’ve been part of that not only offer formative experiences but also encourage active participation and community-building.\nOur goal was to inspire members of our community to apply and get involved in initiatives that promote personal and professional growth—and help strengthen our collective network. Many attendees shared that they were unfamiliar with some of the conferences and events we presented or didn’t realize they could apply for financial support or travel grants to participate. This realization was empowering for many, as it helped them see these opportunities as something within their reach.\nThe diversity in the room was amazing—we connected with people working in areas like census data, health data, and academic research. There were attendees who were just starting their journey with R, as well as seasoned users eager to share their experiences. The feedback we received was overwhelmingly positive, and the enthusiasm in the room reinforced the importance of creating spaces like this.\n\nWe wrapped up the evening with an end-of-year toast and a networking session, which allowed us to continue building connections in a relaxed and celebratory atmosphere. 🍾\nIf you missed the talk, you can check out the slides here: Slides\n💜 Stay connected with the R-Ladies Buenos Aires network: 🐦 Twitter: @RLadiesBA 🌐 Website: https://rladiesba.netlify.app/\nLet’s continue growing together, discovering opportunities, and making the R community an even more inclusive and enriching space! 💪💜"
+    "text": "What I took with me\nI learned a lot, met incredible people, drank way too much coffee and ate way too much sugar. But most of all, what stayed with me was the human dimension: the limitations of current technologies, and how people reflect critically on them and work to overcome them.\nWhat happens when you’re working with sensitive, private data that can’t be shared with large models on external platforms, and your institution has limited infrastructure and funding? Projects like the ones presented by Leonardo Lombardi (QuantIT), Aiala Rosá (Universidad de la República), Victor Mireless (UNAM) and Juan Reutter (PUC, Chile) on AI and Human Rights are a clear example.\nWhat if you need a model whose decisions are understandable and accountable—like in a medical setting, where both doctor and patient should be able to understand the logic behind a diagnosis? Talks like the one by René Vidal (University of Pennsylvania) on explainability touched on that.\nOther sessions explored critical topics such as bias and AI governance, highlighting the importance of fairness and transparency in model development and deployment. As part of the closing event, Catherine D’Ignazio (MIT) and Ivana Feldgeber (DataGenero) delivered a powerful session on gender equity and women in AI.\nBasically, a reminder that AI, like any technology, is not neutral. It reflects the values, priorities, and perspectives of those who build it. That’s why spaces like Khipu matter: to ensure Latin America is not just a consumer of AI, but also a key player in shaping its future.\nYou can watch most of the talks on Khipu’s youtube channel"
   },
   {
     "objectID": "talks/alta-ca-2024/index.html",
