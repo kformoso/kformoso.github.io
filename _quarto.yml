@@ -33,6 +33,20 @@ format:
     css: styles.css
     toc: true
 
+babelquarto:
+  languagelinks: navbar
+  languagecodes:
+  - name: es
+    text: ""
+  - name: en
+    text: ""
+  mainlanguage: 'en'
+  languages: ['es']
+title-es: title in es
+description-es: description in es
+author-es: author in es
+lang: en
+
 
 
 
