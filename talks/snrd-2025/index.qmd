@@ -1,0 +1,13 @@
+---
+authors: [Jesica Formoso]
+date: "2025-04-10"
+title: Políticas Relacionadas con Repositorios de Datos Científicos: Argentina
+subtitle: Policies related to scientific data repositories: Argentina
+image: snrd.jpg
+---
+
+La apertura de datos científicos es clave para una ciencia más transparente, colaborativa y reproducible. Permite validar resultados, evitar la duplicación de esfuerzos y potenciar nuevas investigaciones a partir de datos ya generados. Pero para que esto sea posible, no alcanza con la voluntad individual: hacen falta políticas públicas claras, sistemas robustos y un entorno que reconozca y valore estas prácticas.
+
+En el primer **WDS Webinar Series on International Repository-related Policies**, organizado por el [World Data System (WDS)](https://worlddatasystem.org/), compartí el caso argentino: la Ley 26.899, su implementación y el funcionamiento del [Sistema Nacional de Repositorios Digitales](https://repositoriosdigitales.mincyt.gob.ar/vufind/). También presentaron Juan Sebastián González Sanabria (UPTC) y Fernando Piraquive Piraquive (Universidad Distrital FJC) sobre el contexto colombiano. El encuentro fue moderado por Bianca Amaro, presidenta de [LA Referencia](https://www.lareferencia.info/es/), una red fundamental para dar visibilidad a la producción científica en América Latina. Entre todo, tuvimos la oportunidad de hablar sobre cómo, a pesar de los marcos normativos, quienes investigan enfrentan múltiples barreras para implementar prácticas abiertas: falta de capacitación, infraestructura limitada, y sobre todo, sistemas de evaluación que siguen priorizando la publicación tradicional por sobre el compartir datos o resultados intermedios. Sin incentivos reales ni apoyo institucional, es difícil que la apertura se vuelva la norma.En este contexto, la construcción de una comunidad científica regional es fundamental. Una red que impulse la cooperación por sobre la competencia, y que fortalezca una ciencia abierta situada, que dialogue con las necesidades y potencialidades de nuestros territorios.
+
+Si te interesa conocer más al respcto, podés encontrar la grabación 👉[aquí](https://events.teams.microsoft.com/event/2ef1831f-4598-496e-a21d-bd575e6d4979@515813d9-717d-45dd-9eca-9aa19c09d6f9?vod&presenterKey=c695785d-f496-43a9-be9c-c7c2ad0e87f1)👈.
